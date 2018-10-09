@@ -36,7 +36,7 @@ namespace Lab3
                     {
                         Console.WriteLine("{0} and odd", number1);
                     }
-                    //Anything valued entered other than n will exit the program
+                    //Any value entered other than n will exit the program
                     Console.WriteLine(name + " would you like to Continue (y/n)");
                 }
                 else
